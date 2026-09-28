@@ -1,0 +1,7 @@
+agent-framework-core==1.12.1
+agent-framework-foundry==1.10.3
+agent-framework-orchestrations==1.0.1
+azure-identity>=1.25
+aiohttp
+python-dotenv
+gradio>=6.0
